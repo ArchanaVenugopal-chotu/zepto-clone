@@ -1,0 +1,62 @@
+
+.Footer{
+    display: none;
+}
+@media (max-width: 768px){
+    .Footer{
+        padding:30px;
+        position: sticky;
+        bottom: 0px;
+        background: white;
+        display: block;
+    }
+.Footer-container{
+    display: flex;
+    align-items: center;
+    gap:30px;
+    .home{
+        display: flex;
+        width:100%;
+        flex-direction: column;
+        home-text{
+            font-size:12px;
+        }
+        img{
+            width:100%;
+        }
+    }
+    .categories{
+        display: flex;
+        width:100%;
+        flex-direction: column;
+        categories-text{
+            font-size:12px;
+        }
+        img{
+            width:100%;
+        }
+    }
+    .cafe{
+        display: flex;
+        width:100%;
+        flex-direction: column;
+        cafe-text{
+            font-size:12px;
+        }
+        img{
+            width:100%;
+        }
+    }
+    .cart{
+        display: flex;
+        width:100%;
+        flex-direction: column;
+        cart-text{
+            font-size:12px;
+        }
+        img{
+            width:100%;
+        }
+    }
+}
+}
