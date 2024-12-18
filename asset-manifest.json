@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zepto-clone/static/css/main.00d05edf.css",
+    "main.js": "/zepto-clone/static/js/main.aca12af1.js",
+    "static/js/488.5b534d50.chunk.js": "/zepto-clone/static/js/488.5b534d50.chunk.js",
+    "index.html": "/zepto-clone/index.html",
+    "main.00d05edf.css.map": "/zepto-clone/static/css/main.00d05edf.css.map",
+    "main.aca12af1.js.map": "/zepto-clone/static/js/main.aca12af1.js.map",
+    "488.5b534d50.chunk.js.map": "/zepto-clone/static/js/488.5b534d50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00d05edf.css",
+    "static/js/main.aca12af1.js"
+  ]
+}
